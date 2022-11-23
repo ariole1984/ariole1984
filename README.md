@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ariole but everyone calls me Juice.
-- 👀 I’m interested in fitness and family time.
-- 🌱 I’m currently learning JavaScript and API/databases.
-- 💞️ I’m looking to collaborate on full stake projects 
+- 👀 I’m interested in fitness (running & strength training) and family time.
+- 🌱 I’m a fan of JavaScript, React and API/databases.
+- 💞️ I’m looking to collaborate on full stack projects.
 - 📫 Reach me LinkedIn.com/arioledieujuste 
 
 <!---
